@@ -3,13 +3,14 @@ The code was tested using Tensorflow 2.2 and CUDA 11.2, with driver version 460.
 
 If you find our codebase useful in your work, please cite our paper at
 ```
-@misc{stan2021unsupervised,
-      title={Unsupervised Model Adaptation for Continual Semantic Segmentation}, 
-      author={Serban Stan and Mohammad Rostami},
-      year={2021},
-      eprint={2009.12518},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@inproceedings{stan2021unsupervised,
+  title={Unsupervised model adaptation for continual semantic segmentation},
+  author={Stan, Serban and Rostami, Mohammad},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={35},
+  number={3},
+  pages={2593--2601},
+  year={2021}
 }
 ```
 
